@@ -29,3 +29,5 @@ Q9UIV1	P22893	ccr4-not_transcription_complex_subunit_7	zinc_finger_protein_36
 Q9UIV1	P22893	ccr4-associated_factor_1	zinc_finger_protein_36
 Q9UIV1	P22893	caf1a	zinc_finger_protein_36
 Q9UIV1	P22893	btg1-binding_factor_1	zinc_finger_protein_36
+Q86YM7	Q9NSC5	homer_protein_homolog_1	homer_protein_homolog_3
+Q9NSC5	P05067-8	homer_protein_homolog_3	amyloid-beta precursor protein
